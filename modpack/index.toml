@@ -181,11 +181,6 @@ hash = "212380d1bc5172a80e536260785e4a57c0243f1b42939a99be2755a0658f6120"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-addon-corn-expansion.pw.toml"
-hash = "b5fea7eb78f12d4d8b1d3d70c508a6fc4af30042a275a70dc65e09cb3cdb45fe"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
 hash = "ed46d777593182f024b2494579fbb0156055965089632b60a6dc9a61d4b7376e"
 metafile = true
