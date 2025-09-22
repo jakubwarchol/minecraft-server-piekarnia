@@ -1,0 +1,13 @@
+name = "Too Many Bows"
+filename = "too_many_bows-fabric-1.21-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FOiJ92uI/versions/md5jcBMM/too_many_bows-fabric-1.21-2.1.0.jar"
+hash-format = "sha512"
+hash = "0e2306edbe5e9d147c50e658be9d8f890af8e21117712199f750d389d81f687a7d365b1a42c0556c57db378da14ccce2bb4942825ddf678acf37c40182664379"
+
+[update]
+[update.modrinth]
+mod-id = "FOiJ92uI"
+version = "md5jcBMM"

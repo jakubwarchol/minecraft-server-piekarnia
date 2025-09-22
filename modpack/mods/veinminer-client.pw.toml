@@ -1,0 +1,13 @@
+name = "Veinminer Hotkey"
+filename = "veinminer-client-2.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dxa0Bm8m/versions/ycz8UR6d/veinminer-client-2.4.2.jar"
+hash-format = "sha512"
+hash = "e15ad0b9cf2d1ec6df4e0af178025cbf366f33d3aded1c2cf78178736ba1521f92c717e5c73132eaae0849074ead0bb2807cd3ca11d0293387b07a158154e6fb"
+
+[update]
+[update.modrinth]
+mod-id = "dxa0Bm8m"
+version = "ycz8UR6d"
