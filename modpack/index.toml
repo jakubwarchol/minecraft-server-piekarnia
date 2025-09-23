@@ -1,9 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/abridged.pw.toml"
-hash = "85e82cbf77679afdfecd780c72b5d94b444af325676bdeb836b7ebd5989ee03d"
-metafile = true
+file = "collection_mod_slugs.txt"
+hash = "ae17d47d79597880a8be2437187322de6bd5f80d4806cfe385153a095594ed67"
+
+[[files]]
+file = "current_mods.txt"
+hash = "1ee4d6b2ddccd8b5c7c478a233ad53e2ceff4b6c02ea5aa7afba792d30ac7e07"
 
 [[files]]
 file = "mods/aether.pw.toml"
@@ -72,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/crate-delight.pw.toml"
-hash = "7647a4128a858a8cc6c6fcda628357d26edbecce7a58796b4091bff64a1e5793"
+hash = "8b2987cd310d39c76c1c9a53b68f40e5b0f4d67cb80544fd7cc752ee4293b0aa"
 metafile = true
 
 [[files]]
@@ -83,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "91a75f0b5bea7356c7c1018be47d506aa984d37fd0e6f0b8d3336ef71e8b3862"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "c39b76c9fe5aa1ef19ba98d5e22af854d8b8cd8f476b3acc875419389d26b8c3"
 metafile = true
 
 [[files]]
@@ -147,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "bccd2b2b46f581f93500eb19183caeef49a7bc1735c9a7450cf2986d8acda1a3"
+hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
 metafile = true
 
 [[files]]
@@ -158,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
+metafile = true
+
+[[files]]
+file = "mods/incendium.pw.toml"
+hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
 
 [[files]]
@@ -172,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2473b0f1cfcede827c486ce13cabdada536b22e486f49c9e95ab03b2ccc00471"
+hash = "cf8742d005d4b0012b1d7bdf36f528a514b4c46baf3b0bff287a5c055f717516"
 metafile = true
 
 [[files]]
@@ -327,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "a9fbf104220ee025e339c1975856807e8e4ecd2e2cc5b3ce2d7dff7a463b523e"
+hash = "5770dada9f2acbb5eb2220919e4252180d18f48cd1f02e676fb5b608fdcd7df1"
 metafile = true
 
 [[files]]
@@ -343,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "1fa203fbf7578d4f6fc251b3529cf79935d7e4a573a281241de74e488be639b7"
+metafile = true
+
+[[files]]
+file = "mods/stellarity.pw.toml"
+hash = "9288e817fa486befd5311f40dabd1e48bd75902e3fcf46668d065a60a47b39e0"
 metafile = true
 
 [[files]]
@@ -474,6 +492,14 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
 metafile = true
+
+[[files]]
+file = "mods_to_add.txt"
+hash = "ef4542839f8255308dbdbacc8de7c3607174fecf9054f9bbc85581c95cdf992f"
+
+[[files]]
+file = "mods_to_remove.txt"
+hash = "22365fb00bd2668528e5bd24905f323ab0c65e8bd28ed1d00a3ccc14d0630e09"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
