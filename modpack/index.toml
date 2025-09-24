@@ -5,6 +5,10 @@ file = "collection_mod_slugs.txt"
 hash = "ae17d47d79597880a8be2437187322de6bd5f80d4806cfe385153a095594ed67"
 
 [[files]]
+file = "create_project.json"
+hash = "b85d58f07211105829b96502c19fbe5b1b0340d297deebc34fb2f6da3e341d0a"
+
+[[files]]
 file = "current_mods.txt"
 hash = "1ee4d6b2ddccd8b5c7c478a233ad53e2ceff4b6c02ea5aa7afba792d30ac7e07"
 
@@ -171,11 +175,6 @@ metafile = true
 [[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "2fcc096dd4c410a7f36e4bbed26a0afeb216e974d4fd4123fda7f4f0d8a6e662"
 metafile = true
 
 [[files]]
@@ -502,6 +501,10 @@ file = "mods_to_remove.txt"
 hash = "22365fb00bd2668528e5bd24905f323ab0c65e8bd28ed1d00a3ccc14d0630e09"
 
 [[files]]
+file = "project_data.json"
+hash = "fa2baa923536908e9ec664c8c114b38c22e643b52eb5fde2cf3168ce738e4dd4"
+
+[[files]]
 file = "resourcepacks/3d-crops.pw.toml"
 hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
 metafile = true
@@ -555,3 +558,15 @@ metafile = true
 file = "resourcepacks/vvi.pw.toml"
 hash = "c27d7f15e62850450221bfc629f00fb2fd5b8247d0684d05b77c1daa7bbcf1a9"
 metafile = true
+
+[[files]]
+file = "upload_modrinth_v2.py"
+hash = "103eadb66c7beb6b7311b8ecc168e765e2804d1e785f11b7f1c787c16e9b3d9a"
+
+[[files]]
+file = "upload_to_modrinth.py"
+hash = "0f48b54c6f81352a7371878bbede29ed855b12fc9c8886af8f0f5a044a8658d9"
+
+[[files]]
+file = "version_data.json"
+hash = "e4c7728401c7f0a11667184f0c265a6e04a7a0e56aa957dace90f4930e46e2ed"
