@@ -15,6 +15,6 @@
   "aesthetic_gravestones": true,
   "spawn_gravestone_skeletons": false,
   "show_heads": true,
-  "time_format": "MMDDYYYY",
+  "time_format": "DDMMYYYY",
   "console_info": false
 }

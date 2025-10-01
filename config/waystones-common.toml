@@ -60,7 +60,7 @@ inventoryButtonY = 60
 enableCooldowns = true
 
 # Set to false to simply disable all xp costs. See warpRequirements for more fine-grained control.
-enableCosts = true
+enableCosts = false
 
 # Set to true to enable warp modifier items for applying status effects on teleports.
 enableModifiers = true
