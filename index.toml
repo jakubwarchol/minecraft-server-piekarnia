@@ -391,6 +391,11 @@ hash = "be7918d29b7fc9f820b6574f3906c1d1decc0fd485d55db5f408429e02bf70b1"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+metafile = true
+
+[[files]]
 file = "mods/clickvillagers.pw.toml"
 hash = "7f1518a3d713d2dca350d1a026ada78c9086253856edfd8058116fd765fbbb29"
 metafile = true
@@ -481,6 +486,11 @@ hash = "0c1c4cb3282a20a758665c5e6877efd237bbe10214e0118c8719205fde87582f"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
@@ -518,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-management.pw.toml"
 hash = "40b85465f985bcb300b89018271103db50340ac99949502fc3ff64fb50bcbbae"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
@@ -686,6 +701,11 @@ hash = "d55a68e5c4d91c15224dd544c29a76b51091c1048707230ad4c61496dfc6044a"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "59749f19cc0fc17b6bcd2cec2f11237890c5650c3e64e79ee4a947a8be793fba"
 metafile = true
@@ -698,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/silk.pw.toml"
 hash = "90d1f4ee70f4b208b623af04b48be8fd5b98b411cbd4d9d0a5b23d07ba99c1e4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
@@ -793,6 +818,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "e8cc2ff5dcd14a2c92fe4059e1f613aefef9358ca9259345e1e319f0bdc5054f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
 metafile = true
 
 [[files]]
