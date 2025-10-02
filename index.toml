@@ -341,6 +341,16 @@ file = "global_packs/required_resources/vocal-villagers.zip"
 hash = "c1be212badf20664ed69f098dc68dd6785259c2f1ad30937b00a9f926aefd693"
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "1605a2484099292bbe9f8b2d2a8bcf34f48fd4e1d7c611fbbb33ab53310bf053"
 metafile = true
