@@ -903,3 +903,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined-r5.6.zip"
+hash = "a334c88b8b5c9a9fb80b042830e94bc7d7f88441246fc3e67b7f50cd21cfe4ee"
+
+[[files]]
+file = "shaderpacks/Solas-Shader-V3.0.zip"
+hash = "70761ed8a7b540c4df60e6775100415fa0de0f24f57c6182d09eab6323c4c78c"
