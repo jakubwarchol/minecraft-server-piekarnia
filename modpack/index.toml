@@ -345,11 +345,6 @@ hash = "a36c16c9f5485a053f0217a8dfde68101a7d374e579b002fc28ed86007bac949"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "bc649f0960b84625957f2f81b3db0ddbe0b0cca0efb3169d54382916c5f062ea"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
