@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".claude/settings.local.json"
-hash = "ad663910a2400e92e5bbbb0c84123229b4ff75c2bba3019a178dddfb5190426b"
-
-[[files]]
-file = "WORKFLOW.md"
-hash = "80e169f313e918b4771a09f5124b8ef4593e6fddf313b24627245da284ea913e"
-
-[[files]]
 file = "config/ClickVillagers/config.yml"
 hash = "b0de71aa578e95a45c0839fb528af8c8f214b75448e5e0109e8a80f0994d684a"
 
@@ -289,14 +281,6 @@ file = "config/xaeroworldmap-common.txt"
 hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
 
 [[files]]
-file = "deploy.sh"
-hash = "032abba6b74d8d01c7057a719dddef13c323a32407fd99a695a131b461d23dc0"
-
-[[files]]
-file = "export-client.sh"
-hash = "ff0fdcd91fc7119791020f689b1da1ee758fefd9748dc6c172215bf4e039c0b4"
-
-[[files]]
 file = "global_packs/required_resources/3d-crops.zip"
 hash = "d63df002bd227c00ee11b8b5f64b751b152b3e0f883a135c2496564703bf67c5"
 
@@ -358,6 +342,16 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a36c16c9f5485a053f0217a8dfde68101a7d374e579b002fc28ed86007bac949"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "bc649f0960b84625957f2f81b3db0ddbe0b0cca0efb3169d54382916c5f062ea"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
 metafile = true
 
 [[files]]
@@ -441,6 +435,16 @@ hash = "c39b76c9fe5aa1ef19ba98d5e22af854d8b8cd8f476b3acc875419389d26b8c3"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "c03848ab316f8f8e07656e08c675541ce90f0ad729d5b31df336fe8f27a58b3f"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "64555abb4588840d78ca5a21d98312f9cb080cd6d044685db7741948e47b48bd"
+metafile = true
+
+[[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "721f0ce637548ddc3b7553799bf96d6b61392a04b4ae6dfb9fae8ac3b820da35"
 metafile = true
@@ -508,6 +512,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "83650ffbad97ff20b09e8db87784ef4aa6d8d6857f55abe24f6e09bf900cb9af"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
@@ -703,6 +712,16 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "ea6b2156e703ca65e0cf4a7119e2c4a9ea81018860859dd949cd2832dfa3bf07"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]

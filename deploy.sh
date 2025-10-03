@@ -11,7 +11,7 @@ set -o pipefail  # Pipe failures cause script to fail
 SERVER_IP="91.98.39.164"
 SERVER_DIR="/opt/minecraft"
 GITHUB_REPO="jakubwarchol/minecraft-server-piekarnia"
-PACK_URL="https://raw.githubusercontent.com/${GITHUB_REPO}/main/pack.toml"
+PACK_URL="https://raw.githubusercontent.com/${GITHUB_REPO}/main/modpack/pack.toml"
 MODPACK_DIR="."
 
 # Colors for output
@@ -59,8 +59,8 @@ check_prerequisites() {
     fi
 
     # Check if we're in the right directory
-    if [ ! -f "pack.toml" ]; then
-        log_error "pack.toml not found. Run from minecraft-server-piekarnia/"
+    if [ ! -f "modpack/pack.toml" ]; then
+        log_error "modpack/pack.toml not found. Run from minecraft-server-piekarnia/"
         exit 1
     fi
 
@@ -88,10 +88,13 @@ check_prerequisites() {
 refresh_packwiz() {
     log_info "Refreshing packwiz index..."
 
+    cd modpack
     if ! ~/go/bin/packwiz refresh; then
         log_error "Failed to refresh packwiz index"
+        cd ..
         exit 1
     fi
+    cd ..
 
     log_success "Packwiz index refreshed"
 }
@@ -101,13 +104,13 @@ validate_pack() {
     log_info "Validating modpack..."
 
     # Check pack.toml exists
-    if [ ! -f "pack.toml" ]; then
-        log_error "pack.toml not found"
+    if [ ! -f "modpack/pack.toml" ]; then
+        log_error "modpack/pack.toml not found"
         exit 1
     fi
 
     # Count mods
-    local mod_count=$(find mods -name "*.pw.toml" 2>/dev/null | wc -l)
+    local mod_count=$(find modpack/mods -name "*.pw.toml" 2>/dev/null | wc -l)
     log_info "Found $mod_count mods in pack"
 
     log_success "Modpack validation passed"
