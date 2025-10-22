@@ -1,0 +1,13 @@
+# Environment variables with sensitive data
+.env
+
+# Certbot SSL certificates and data
+certbot/
+
+# WordPress data volumes (managed by Docker)
+wordpress_data/
+mysql_data/
+
+# Nginx logs (if mounted locally)
+logs/
+*.log
