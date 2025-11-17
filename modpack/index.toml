@@ -325,6 +325,11 @@ file = "global_packs/required_resources/vocal-villagers.zip"
 hash = "c1be212badf20664ed69f098dc68dd6785259c2f1ad30937b00a9f926aefd693"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "f6ecd46f2cf0e9387fa45c31184f40d361efd70f5645bad8876b51764ca6fdf5"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
@@ -342,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "a36c16c9f5485a053f0217a8dfde68101a7d374e579b002fc28ed86007bac949"
+metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "36b311ab2c828ad8c490b539ae0cffdac8438be7c997a71a1c782af924114c15"
 metafile = true
 
 [[files]]
@@ -372,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "b14408056dfdcdbbfe1c41e05de322457d508a611efae462db9a4103eb168887"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
@@ -512,6 +527,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
+metafile = true
+
+[[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "446b9d3a5a8755894a9b15c47a1bc838ba59cb93b0f5d7f2b60bfdb1ac7e7ba7"
 metafile = true
 
 [[files]]
@@ -680,6 +700,11 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
+metafile = true
+
+[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "0d64c15fed5e94702e7bbc87996a98d3b7f23a9ccd7bd1c35fb20a68c729f517"
 metafile = true
@@ -790,6 +815,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "d7655654c6b8fc819f2a01a4b50bb8b133efb1b5da88394b4af5581599a34a5e"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "63ce25d85a031914d8f0b9360635c5c9ff0da961663698200280c685d46179b2"
 metafile = true
@@ -807,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "3226b1537f8ed0868687b4b537883fbe8cd5311d171e5456a7f1ebb6394e0450"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "40c60c458184ab9d15fdcc4c610607eca60a1557bbf484fad2942a803d75e0ec"
 metafile = true
 
 [[files]]
@@ -897,6 +932,26 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-flower-pots.pw.toml"
+hash = "6ea70716dbbdddf6bdbeb137208a38380159048813accecb225ca6d19ce37e97"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-glints.pw.toml"
+hash = "0d77095fb0f0b0158fa07c1ad720f3680392a8c7453cefe750732eda8082e9c9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/the-rename-compat-project.pw.toml"
+hash = "59762cbb7156c5aa21855cc125bb4ad639059c14705d7c8ccdf0263d2f5398cb"
 metafile = true
 
 [[files]]
