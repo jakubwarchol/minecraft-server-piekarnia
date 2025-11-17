@@ -1,0 +1,85 @@
+# robots.txt for dscp.team WordPress Multisite
+# This file should be uploaded to /var/www/html/robots.txt in the WordPress container
+
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Block crawling of URLs with referral tracking parameters
+# This prevents Google from indexing duplicate content from sites like:
+# - aiproductlist.org
+# - productcool
+# - make.rs
+# - indietool.io
+Disallow: /*?ref=*
+Disallow: /*&ref=*
+
+# Block common WordPress admin and system directories
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-content/cache/
+Disallow: /wp-json/
+
+# Allow access to specific WordPress files
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+
+# Block search and filter pages (often duplicate content)
+Disallow: /*?s=
+Disallow: /search/
+Disallow: /*?p=*
+Disallow: /*?author=*
+
+# Block feed pages (unless you specifically want them indexed)
+Disallow: /feed/
+Disallow: /*/feed/
+Disallow: /comments/feed/
+
+# XML Sitemaps for both domains
+# Main site sitemap
+Sitemap: https://dscp.team/sitemap.xml
+Sitemap: https://dscp.team/sitemap_index.xml
+
+# Subdomain site sitemap (daily.dscp.team)
+Sitemap: https://daily.dscp.team/sitemap.xml
+Sitemap: https://daily.dscp.team/sitemap_index.xml
+
+# User-agent specific rules for major search engines
+
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Yandex
+User-agent: Yandex
+Allow: /
+
+# Block bad bots and scrapers
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: DotBot
+Crawl-delay: 10
+
+# Notes for deployment:
+# 1. Copy this file to your WordPress container:
+#    docker cp robots.txt wordpress:/var/www/html/robots.txt
+#
+# 2. Verify it's accessible at:
+#    https://daily.dscp.team/robots.txt
+#    https://dscp.team/robots.txt
+#
+# 3. Submit in Google Search Console:
+#    Search Console → Crawl → robots.txt Tester
+#
+# 4. Monitor blocked URLs in Search Console:
+#    Coverage → Excluded → Blocked by robots.txt
