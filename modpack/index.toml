@@ -370,6 +370,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "5601649308a7d9f1658a942bbd48d3bd899a81fabd4ea1296952b48474d1ee1d"
+metafile = true
+
+[[files]]
 file = "mods/ati-structures-vanilla-edition.pw.toml"
 hash = "e33080af3f2dc917e8b00ab5f700fe209aa8f2a4ae049fa25fd5aa728cfa7537"
 metafile = true
@@ -392,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "be7918d29b7fc9f820b6574f3906c1d1decc0fd485d55db5f408429e02bf70b1"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "a4d21da45c40e8f1e3b76c9855ea3f1c15736cf2b12475e9de3efd05f8f48a8d"
 metafile = true
 
 [[files]]
@@ -662,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "b7efdf14e315ce387de72feb5337e84f96725d6d1c7e4f4cce5d444a75c2da3e"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "175ad5fb2b745bc81844daf0f994f1bcb3180b0929204cbd31417ad9a5b82645"
 metafile = true
 
 [[files]]
