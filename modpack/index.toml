@@ -395,6 +395,11 @@ hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "be7918d29b7fc9f820b6574f3906c1d1decc0fd485d55db5f408429e02bf70b1"
 metafile = true
@@ -477,6 +482,16 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "af20b5dd7a7826fd428edec189e5c657c9119bd1ddb799fa78b102b8fe6a980c"
+metafile = true
+
+[[files]]
+file = "mods/enchancement.pw.toml"
+hash = "266e18277d80a22d952feb002febbf3bf2c8c4fcaa8eb78967e7b9411585dbc0"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
@@ -747,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
