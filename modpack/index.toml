@@ -420,11 +420,6 @@ hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "461cbcd54b0e040d0e1ef72498a4518ef749d205a4b571233c34ed2d7d85e8cd"
-metafile = true
-
-[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "40e90e4fcf96b43a76dd16f48d5fdb0b91d74dcf60fb34a39e58a5bdfb2abf72"
 metafile = true
@@ -455,6 +450,11 @@ hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "07503941da49b4a52e47c0691bcc014f5ff2e35ad31e4d7bec274d4b2050069f"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "d834fa2fe24acc1b76b4ffa1cce5aa4eeb15e3ca050fa4187a85a2fa69fec0fd"
 metafile = true
@@ -470,8 +470,8 @@ hash = "6aa36140849ed9e4c8e783f6a027ab269b04c18c2174ed21cdf6baaa12e7b8f2"
 metafile = true
 
 [[files]]
-file = "mods/libipn.pw.toml"
-hash = "eb229316b20d29f9c43986ef250dbbb905ddde009fcfe2f991971b2f8c136ea6"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a6d53d9a312a3cb6554453eb73ecd152278f7be8d12e9a8db6126b0cef1d2b68"
 metafile = true
 
 [[files]]
@@ -545,6 +545,11 @@ hash = "f4a7b817de3047c78575b1e0b433be1a81057f5288ad3dcb08f728bd4f73d4ed"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "c1484b54342c5f80f8e32d76d62a5af00563d08002e976e153aea66da32ecc1a"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "5c54f485a3d166cfa6a931c016f7e31150a34c128271b985ce3c3ceed62d1330"
 metafile = true
@@ -580,11 +585,6 @@ hash = "c4c31ef7df71b4cef6f3af39364d8b6a1454fe9343a31b98f8d48cff572e4618"
 metafile = true
 
 [[files]]
-file = "mods/resourceful-lib.pw.toml"
-hash = "ba2b4f8001ab9a364a71331eb125c22199b5ee1c968e34532797ffdf2d103aa7"
-metafile = true
-
-[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "c64ffa1cfce64e959e4f0ca90823f4bf0d1b94fcba5e2fdb413fed78447d7dcd"
 metafile = true
@@ -592,11 +592,6 @@ metafile = true
 [[files]]
 file = "mods/shogi.pw.toml"
 hash = "838dc0acc3c1519c5dbfd102b4984cfd3926b6a3b04f4bb8f1d4e3c3a4191416"
-metafile = true
-
-[[files]]
-file = "mods/silk.pw.toml"
-hash = "47c232fad83c7aca3c6b1a41d60d7c8c476ab0893f711429b1c014186475751c"
 metafile = true
 
 [[files]]
