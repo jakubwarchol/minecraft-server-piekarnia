@@ -2,11 +2,11 @@
     "cooldown": 20,
     "mustSneak": false,
     "delay": 0,
-    "maxChain": 100,
+    "maxChain": 64,
     "needCorrectTool": true,
     "searchRadius": 1,
     "permissionRestricted": false,
-    "mergeItemDrops": false,
+    "mergeItemDrops": true,
     "autoUpdate": false,
     "decreaseDurability": true,
     "client": {

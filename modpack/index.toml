@@ -5,14 +5,6 @@ file = "config/ClickVillagers/config.yml"
 hash = "b0de71aa578e95a45c0839fb528af8c8f214b75448e5e0109e8a80f0994d684a"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "81917a8ba2c34aaf606b9e7dbb66ec8034ee39a4fa2e91263b711dff2e05e34b"
-
-[[files]]
-file = "config/bakery.json"
-hash = "3f8e403a20ef9ceffa2651d516220c9e5ab372ad221f471efbd2fbe200489971"
-
-[[files]]
 file = "config/balm-client.toml"
 hash = "61995c9f4e85716dd0a7b5dc53f2ac577b75fe53b4fae2e288f3c75dd9020c19"
 
@@ -27,90 +19,6 @@ hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
 [[files]]
 file = "config/bettercombat/server.json5"
 hash = "b4d8fd935d23f528a177e95c8a45be52fa5f3e4cd2671802be1f44c80aef724a"
-
-[[files]]
-file = "config/betterdeserttemples-fabric-1_21.toml"
-hash = "06a1b8b7774df6bef4dc9b82e140a4211d41c93178ee0d9d25105d05a6c20566"
-
-[[files]]
-file = "config/betterdeserttemples/README.txt"
-hash = "65f27b868cd42591c8c0be68c73f95490a409e90c3005baa809c4b907a6a03c3"
-
-[[files]]
-file = "config/betterdeserttemples/fabric-1_21/README.txt"
-hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
-
-[[files]]
-file = "config/betterdeserttemples/fabric-1_21/armorstands.json"
-hash = "55f0907f10199e948cb30b6f2965a2e21a36b883083f46f293019d9877d1f336"
-
-[[files]]
-file = "config/betterdeserttemples/fabric-1_21/itemframes.json"
-hash = "94159a387c3687e35fe27327edef26d12ddaa0375bdfa57cd17d2cbeb1a705b6"
-
-[[files]]
-file = "config/betterdungeons-fabric-1_21.toml"
-hash = "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77"
-
-[[files]]
-file = "config/betterfortresses-fabric-1_21.toml"
-hash = "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece"
-
-[[files]]
-file = "config/betterfortresses/README.txt"
-hash = "3efc54726c0702d0a4d4a91eb6436acdd3842598460e5781ffe365353ee36cc2"
-
-[[files]]
-file = "config/betterfortresses/fabric-1_21/README.txt"
-hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
-
-[[files]]
-file = "config/betterfortresses/fabric-1_21/itemframes.json"
-hash = "fa42b2835a3f8f761c0690cc493367ee171079aabe051352690b2796424d7db9"
-
-[[files]]
-file = "config/betterjungletemples-fabric-1_21.toml"
-hash = "69a3aa51ef5a881f01a6515f72a57a10b8df7c7b93588f424fc07c864a0933e1"
-
-[[files]]
-file = "config/bettermineshafts-fabric-1_21.toml"
-hash = "d486f4672659b59f9a855d9ebce345d8a983c504d24b99613ce280db657c40f5"
-
-[[files]]
-file = "config/betterstrongholds-fabric-1_21.toml"
-hash = "6884b0d763e06d77fe7a2e8e9acbc201014fc8135c7dcba47be30fab9a634a11"
-
-[[files]]
-file = "config/betterstrongholds/README.txt"
-hash = "80929d21617faef8983985d92096ad903602a6d82106b5e845562814872da6c7"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_21/README.txt"
-hash = "c857bda54ab01ca5db21cfe085dc75dcbb13d26054463cf301c74023783612fc"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_21/armorstands.json"
-hash = "9e90643a74a5b0932a50c8b5649f1e2e87ca4f78cdc5bff1fadc9c91ee7b7f63"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_21/itemframes.json"
-hash = "0813b55bc8edc873dcde578f781b1fcdfe14951c29eab0c0d42da5f358c9fee6"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_21/ores.json"
-hash = "ce77839cf0822e08fb751f8b08413e4c2f8bf4a3d2fe8cca416d919d7a0d1729"
-
-[[files]]
-file = "config/betterstrongholds/fabric-1_21/rareblocks.json"
-hash = "0a5208b0a1f52577721ea6e169ae40edd2d78269a673b89641b3a2b4ea956bc8"
-
-[[files]]
-file = "config/betterwitchhuts-fabric-1_21.toml"
-hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
-
-[[files]]
-file = "config/cardinal-components-api.properties"
-hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
 file = "config/comforts-common.toml"
@@ -149,18 +57,6 @@ file = "config/gravestones.json"
 hash = "b03f1f422cdc0bf95fb8870aaf1667ee477c30228f0088fd49fc8f19cb5d5dd3"
 
 [[files]]
-file = "config/horseman-client.toml"
-hash = "76e9b0861c419b6d938bfdd0b7bf192d778227e424bc35cb7847bf751eac9332"
-
-[[files]]
-file = "config/horseman-common.toml"
-hash = "b23c64c9986bf0bb6d805756933095c46edd42d16d4b4de0ff89e2c2b38711c2"
-
-[[files]]
-file = "config/horseman-server.toml"
-hash = "5fe45f742706573c837979bcb0e2ff9680eb5d41ec58e7f88b2572bceba28017"
-
-[[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -173,16 +69,8 @@ file = "config/lithostitched.json"
 hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
-file = "config/many_bows.json"
-hash = "85cfd877d36c777f494f5b51036500ba342c07310e08f232e9aa4242c1442669"
-
-[[files]]
 file = "config/rightclickharvest.json5"
 hash = "6a27f6be5894d6f6cf72e765449ec3d9eee2456dc5bcdb552dd58602be6449be"
-
-[[files]]
-file = "config/suppsquared-common.json"
-hash = "a2501583b9581acb039b411d08fe85698609398684e3b18c590731acc34b9c7d"
 
 [[files]]
 file = "config/toms_storage.json"
@@ -194,7 +82,7 @@ hash = "908ad4b9ef18997981b70e0f3c3638ca1df07bb2b53a014bf009840e07750543"
 
 [[files]]
 file = "config/towns_and_towers/structure_rarity_new.json5"
-hash = "a737b58e90d9723f2367c728c6db203ae250600619f173ad49ce1f991c7aebbe"
+hash = "f0fa168527171c8b92f8de9a9775ef51aa22035f9f549beb02becaf16c0f59d7"
 
 [[files]]
 file = "config/veinminer/blocks.json"
@@ -206,19 +94,11 @@ hash = "cee98f631d5bf35ee463afc1e703b2852bc70141928e076d380dd376834f2109"
 
 [[files]]
 file = "config/veinminer/settings.json"
-hash = "74a35fe70a4359bd3a832d5516239d0377c51555297c4f4347ca13fd10de7a76"
-
-[[files]]
-file = "config/veinminer/update/veinminer-client-2.4.2.jar"
-hash = "b3925c96150f7662f687dbf3ce9ffb26f89fe9059a5b1e9e2a87ee34a5b496ef"
-
-[[files]]
-file = "config/veinminer/update/veinminer-fabric-2.4.2.jar"
-hash = "80dafbd691cf025ba92d05317c45b46a5d6d4d1a3baa97ac1eb7b2cb56d19342"
+hash = "965dba3883c3b657f021f0d177f3ab88cc5e2e86725ab159e4b02be0cf74342a"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "401475f116af890b67fbd70142b244d6f3f1bec2eef39bab68b309ec110ad4e7"
+hash = "922caa2c61a742ea1465473bc5c7caba508a6556d9d4e7577a86dff0178dc367"
 
 [[files]]
 file = "global_packs/required_resources/3d-crops.zip"
