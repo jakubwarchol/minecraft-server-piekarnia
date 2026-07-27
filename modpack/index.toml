@@ -554,11 +554,6 @@ hash = "31b96c1319d98a60c5ed11db690b66585ef5abb6fc99c9e630fa7df85a738709"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "2df6e71ac01b886ff496669c5cd6d8c89ca358c655ca4983487d09e6b7d2728c"
-metafile = true
-
-[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "bdb0ddbd9b62fd550ab9242f555803f39ebd34ccb38a63c6279e898a720e4cea"
 metafile = true
@@ -674,11 +669,6 @@ hash = "75dcf50eb81f968a38de286aa2df7e9a649569ff0c18eff2bd70f9c4028da410"
 metafile = true
 
 [[files]]
-file = "mods/trek.pw.toml"
-hash = "856519bd5d0f0736c86a2ebbc833b8499075be4b1d6613988f4e5104ba2d9a32"
-metafile = true
-
-[[files]]
 file = "mods/veinminer-client.pw.toml"
 hash = "e553a975a8f1fa7ac4bb27a3dec4e0f9d78b0cd057732139b9f265378b2a55b7"
 metafile = true
@@ -706,51 +696,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "fca5afdd9955e658237d14f21a8473610c659b3fb85652ff8de8314fa3322b07"
-metafile = true
-
-[[files]]
-file = "mods/yungs-api.pw.toml"
-hash = "acbf44be20741415885531d867cb70076d04af6c69e08d8db1fcfbe07edd90af"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "1f1d676b4ec9ad98b73aef3d6dd389043301423f23f9fdacd22e73bf8d4fb977"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-hash = "acf2c13333942af5c19bd2778f7ea8ea2cd659469ea4af6951a804247a0c9a55"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-jungle-temples.pw.toml"
-hash = "b7bba408aeb8e2c56bb6c49ebb580dfaff490859c31039af10b15915c00164cb"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "ef14cc5a85e5a698b26d82aa1b0cbb623d295ed5bc9c165a74aa324a7e9c1b50"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "2ddf57be8fa40bdc2207d907caf60bfc5c6d60b305b2a5c86c40849e942529f1"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-strongholds.pw.toml"
-hash = "6001b529dd16c2d29d4989e4b1c92dfeeb3c5448734e39b9336318805b957488"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "bc8577cb0063246405ee3e63bb432bd28d763cc2f18d8e9d759143f86ed6a21b"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-hash = "ee909745c570da4043618ee95604a8841e61a24d2a543896cd06e66a70a6bc27"
 metafile = true
 
 [[files]]
