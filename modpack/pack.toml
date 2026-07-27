@@ -1,6 +1,6 @@
 name = "Piekarnia Modpack"
 author = "Jakub"
-version = "3.0.3"
+version = "3.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
