@@ -659,11 +659,6 @@ hash = "290a8888898841ee568ee2bf4df8e0f249b8745fcc63122f2efecbc157a71b84"
 metafile = true
 
 [[files]]
-file = "mods/too-many-bows.pw.toml"
-hash = "9677ee2e9365b86b31db5074469cd88526802ea904f72e5cf29cde8cb2c565aa"
-metafile = true
-
-[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "011795d42ad6754b87973eb66d5732f200994620b4687e60818902e50db040ba"
 metafile = true
@@ -681,11 +676,6 @@ metafile = true
 [[files]]
 file = "mods/trek.pw.toml"
 hash = "856519bd5d0f0736c86a2ebbc833b8499075be4b1d6613988f4e5104ba2d9a32"
-metafile = true
-
-[[files]]
-file = "mods/trinkets-continued.pw.toml"
-hash = "6fcd3bb41c898bfbaaac20e51f14fc20e21611fbec859e45ab950a24e1b02105"
 metafile = true
 
 [[files]]
