@@ -1,0 +1,13 @@
+name = "Miniature Shader"
+filename = "miniature-shader-2.18.13.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UaS8ROxa/versions/ErR6TZYu/miniature-shader-2.18.13.zip"
+hash-format = "sha512"
+hash = "2da9cc48b911e0711f432a1a1203a9f3d813c12e703aeae0dcf617bcab471f84c5ffd19a29bf5b7b6760f6d16100a5c47e38a1980f5c0dd2b3f7d5d120053128"
+
+[update]
+[update.modrinth]
+mod-id = "UaS8ROxa"
+version = "ErR6TZYu"

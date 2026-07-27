@@ -150,6 +150,11 @@ hash = "9bc3807d34ba58c5fab2d5ebf1d795c1212b0706dabcdda16a7a3684c8973c1e"
 metafile = true
 
 [[files]]
+file = "mods/almanac.pw.toml"
+hash = "4a23e8d96bcd9514ea66860790cc417a5ba99e259b69df38b9d48d07db10f124"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "82c561313a11160ae868d5050601a68a24c59b6c0dcde232664c224cf9d90134"
 metafile = true
@@ -170,8 +175,18 @@ hash = "99c470d7645ce0b117be78844b166ef0216d6f57b3fc3e854d839f75c6510590"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "3635aff985b59e95eabf5ca9be77d20d25c9d4e2b20f97df42639ea794eda1f3"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ac362fd04bd34760783c127e89478b56dbe30b6e7792f084f515f6046e7b5d31"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "be94f4eee46fe7ef840dae32e1a749db33adf0a8bf9c34f0b5d922f7c4a8d00a"
 metafile = true
 
 [[files]]
@@ -182,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "73326213899af53071fedc242ad04f0c8fc45cf7151d8fadcc35550970a72e51"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "c40e0e9470504b51e2f638b86b4a3ca5c41c8f89efd0dbbe104f1816e911401f"
 metafile = true
 
 [[files]]
@@ -225,6 +245,11 @@ hash = "f0f32a0fe9d58a8862ede5966bf06c3ef9927fc5c7f6e38b6edb7ba3eb47c2ca"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "88aa13d41089c63696b88a60353b21156b67416affbdb1f162478b4771b76ff2"
+metafile = true
+
+[[files]]
 file = "mods/delight-lib.pw.toml"
 hash = "998f43db75a7593f0628afeef8365bcad6ab94316988598b0d914930ccf076a2"
 metafile = true
@@ -232,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b7c469df6ef4ede9e6e3d51cfb52aec810dff102663a1f3cc8113b2e8d63893b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "fe17d2b9b63e19e1818f55d9d376aaec0c42c9fd9812d9a2f6d1c4160abd161b"
 metafile = true
 
 [[files]]
@@ -282,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "1500f8fc3792a46226c0559af0925cf4da5f11b7224ec2dcaad8b66bc0c5ca4d"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "d483b69d05922629fddfbfdbe3a9bf6c9730cdba333e0a9b610ee33b118f8781"
 metafile = true
 
 [[files]]
@@ -350,8 +385,18 @@ hash = "6aa36140849ed9e4c8e783f6a027ab269b04c18c2174ed21cdf6baaa12e7b8f2"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "e922d7300eba8cfbd9aa31ba475cf6fcbcf11d74e89a0314ada18d58f08a2634"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a6d53d9a312a3cb6554453eb73ecd152278f7be8d12e9a8db6126b0cef1d2b68"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "807a319ce0e802960796fc6a609e7d96a8566f161ddc60424ebc1d4fae2da80a"
 metafile = true
 
 [[files]]
@@ -362,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "116e9509fc5f1001b639e925c2554ea68f418e3c2538f48023ef315f208c5b00"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "ab3be4435d81feb60e0faeee73ad9250dbe6a924d92e3d8d47819b56414f1c5c"
 metafile = true
 
 [[files]]
@@ -405,6 +455,11 @@ hash = "3e3579fd25d754d370b4740c7fb1a06f62de8dc35043c9774ac9210f3151f5da"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "ba528e27fc27b75a1997936bba35cf7d14c4d4d203aab5c067d5ec3ffcd0cfb6"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
 metafile = true
@@ -412,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/more-delight.pw.toml"
 hash = "d6f10b74ff36acbbd50240c01ac43823c146798a01e7b16eda3a5a4be4b50692"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "1049850c9b377660d7f4be73ea81d04cd5a4db536b296835c30257fa73a233e4"
 metafile = true
 
 [[files]]
@@ -427,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "c1484b54342c5f80f8e32d76d62a5af00563d08002e976e153aea66da32ecc1a"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "2e2086f80a46d334bb35d0c16aedfc8077e8992b763f1e84296d996baa2aca78"
 metafile = true
 
 [[files]]
@@ -465,13 +530,28 @@ hash = "c4c31ef7df71b4cef6f3af39364d8b6a1454fe9343a31b98f8d48cff572e4618"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a4c435e9a1f73fc2bc34b144e582c2e019d0a3eec99925ddd2aaae727370ea76"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "c64ffa1cfce64e959e4f0ca90823f4bf0d1b94fcba5e2fdb413fed78447d7dcd"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "3a5aaf6e5dd63bdbcadf292b6ff5b0ced345a25927414ca199a5ec0e24d5c13a"
+metafile = true
+
+[[files]]
 file = "mods/shogi.pw.toml"
 hash = "838dc0acc3c1519c5dbfd102b4984cfd3926b6a3b04f4bb8f1d4e3c3a4191416"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "23bd2f19c11a1b0b2870dafd6d5321af3549b22e84149bfd6ff3ff49af388788"
 metafile = true
 
 [[files]]
@@ -575,9 +655,30 @@ hash = "6576e0f2a199e626872973b61fa925d6055c90442901e88e705815d1ef48888d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined-r5.6.zip"
-hash = "a334c88b8b5c9a9fb80b042830e94bc7d7f88441246fc3e67b7f50cd21cfe4ee"
-
-[[files]]
 file = "shaderpacks/Solas-Shader-V3.0.zip"
 hash = "70761ed8a7b540c4df60e6775100415fa0de0f24f57c6182d09eab6323c4c78c"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
+hash = "6e3714b3eee005229146eb0c36a911380f209fac39fedeaa0f2d303d7ca06402"
+metafile = true
+
+[[files]]
+file = "shaderpacks/miniature-shader.pw.toml"
+hash = "e27fb6b8d787f473b5a7698bd2073863f4ccc831fe59eb1fb6663e99d213ca6c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/potato-shaders.pw.toml"
+hash = "8958fff9fcdff84582c75584b9fd89fed7e2b21f28c6a752857ce1458ffbfd26"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanilla-plus-shader.pw.toml"
+hash = "6a55aacf66c97024c0ca9321bd0c6319ab080945afdfcae08f42a3f513bed8da"
+metafile = true
