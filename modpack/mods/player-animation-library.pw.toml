@@ -1,13 +1,13 @@
 name = "Player Animation Library"
-filename = "PlayerAnimationLibMerged-1.2.5+mc.26.1.jar"
+filename = "PlayerAnimationLibMerged-1.2.5+mc.26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ha1mEyJS/versions/SdKAeB6x/PlayerAnimationLibMerged-1.2.5%2Bmc.26.1.jar"
+url = "https://cdn.modrinth.com/data/ha1mEyJS/versions/OQqtEQC6/PlayerAnimationLibMerged-1.2.5%2Bmc.26.2.jar"
 hash-format = "sha512"
-hash = "6649f8441771344b3e96f6847c77892c3ff7a580f2d22094724326aa32a9f02641214fed82c5fedcdd522df7382609e0450ba9056d7021edcae81e1dde88e82b"
+hash = "a4d175231846cac75381a71a9c4d7a3912251f7b46933ec036f173b48b3bcc9c56134f11cb1b909ce92936e8722eef3991815227b6b7d803b4ea3043a13632a8"
 
 [update]
 [update.modrinth]
 mod-id = "ha1mEyJS"
-version = "SdKAeB6x"
+version = "OQqtEQC6"

@@ -1,16 +1,13 @@
 name = "Piekarnia Modpack"
 author = "Jakub"
-version = "2.0.1"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "244ad6eb4fd654df8789266671bbb5217c1184907588f3a7ba5fd0756266c0f5"
+hash = "94ce1ff45276292aebc822b00c3c26068e0c0fa279d4c6756c5be63aa8ae6b3c"
 
 [versions]
 fabric = "0.19.3"
-minecraft = "26.1.2"
-
-[options]
-acceptable-game-versions = ["26.1", "26.1.1", "26.1.2"]
+minecraft = "26.2"

@@ -1,13 +1,13 @@
 name = "Shogi"
-filename = "shogi-fabric-26.1.2-26.1.2.7.jar"
+filename = "shogi-fabric-26.2-26.2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bi4iCmsw/versions/ggFXfm9L/shogi-fabric-26.1.2-26.1.2.7.jar"
+url = "https://cdn.modrinth.com/data/bi4iCmsw/versions/tlaGyX0N/shogi-fabric-26.2-26.2.0.3.jar"
 hash-format = "sha512"
-hash = "2ae643211d6e2c9d46a14487bfda778f1b978cab9cdf04a67c2e11d0115c6c5b3eee3af84ca832f915c642826667496dae6e83cc7113f361ce3a82f361d547c6"
+hash = "7e66a0b9e95e9a435e2538775b420753480dfe386fc41471006e14bfa4d86962898c29eec71518695a2ffb58742d8d75337ce3a279b1da80e69b3399ccf882b3"
 
 [update]
 [update.modrinth]
 mod-id = "bi4iCmsw"
-version = "ggFXfm9L"
+version = "tlaGyX0N"

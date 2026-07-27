@@ -1,13 +1,13 @@
 name = "Horse Expert"
-filename = "HorseExpert-v26.1.2-mc26.1.x-Fabric.jar"
+filename = "HorseExpert-v26.2.1-mc26.2.x-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/24CSPS1E/versions/NWjNdNuL/HorseExpert-v26.1.2-mc26.1.x-Fabric.jar"
+url = "https://cdn.modrinth.com/data/24CSPS1E/versions/u9La5hoN/HorseExpert-v26.2.1-mc26.2.x-Fabric.jar"
 hash-format = "sha512"
-hash = "364445b4b2d847a626e5e030cb39346a4d92710a185d50d22455e092ff8b5dd77cfd984d7c972b9d1c45cbadb0f90c4147c59d82eccae1b2cbb633732d8fb9d5"
+hash = "3ee7c9b30791c61e24c1350a46b26856b5a697b83e0cd2161f1001c77ef5e19b2acf58164e3dcd7128d2af24f6515969064ecaec03c62d541c48654806fda0d2"
 
 [update]
 [update.modrinth]
 mod-id = "24CSPS1E"
-version = "NWjNdNuL"
+version = "u9La5hoN"
