@@ -3,11 +3,11 @@ filename = "Enchantment Outlines.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/A32gwfe8/versions/qX4zagvp/Enchantment%20Outlines.zip"
+url = "https://cdn.modrinth.com/data/A32gwfe8/versions/GK6yhQy1/Enchantment%20Outlines.zip"
 hash-format = "sha512"
-hash = "75a8df919c7d65922fd058c83daa7343f5a61e6a8c2edabdb60f65b37b12e1e800d0b6c5d09fb4e618fc317fc946bfb99607cdedae116ad83fc3579f6fc7cb22"
+hash = "324a6ba3f7781caa6db66f3ffa89562b58f88c15e5a5041da2bc136b9258af5ddcf0740653d548f5617580ec0fe506e8ce1a26ad303a304ed8982486d45ca9f8"
 
 [update]
 [update.modrinth]
 mod-id = "A32gwfe8"
-version = "qX4zagvp"
+version = "GK6yhQy1"

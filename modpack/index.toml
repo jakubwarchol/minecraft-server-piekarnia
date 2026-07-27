@@ -129,6 +129,10 @@ file = "config/elytra-trims-server.json"
 hash = "fa1afd4189880e9b4ddcd4ce56a33c94958735a005fe5f9b796d967d776c921b"
 
 [[files]]
+file = "config/elytratrails.json"
+hash = "bfdbc9f15601169b99efeebc0cb57bf7544e403751a0a53a2f28a5ad4779ef3d"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "6bfc37d85bd4e0b76ed3a477d5feeec148c7f758018f741d709f4aa90b0c12b3"
 
@@ -166,7 +170,7 @@ hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
-hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+hash = "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450"
 
 [[files]]
 file = "config/fullscreenfix.properties"
@@ -190,7 +194,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "2161d09f9c3b61fda2fb04f8f2f147454fba160c9518b5b93395a9ed1d772391"
+hash = "bdbf31cc473ad21fe026aa4a117da6300e66f8cb3470a37af5b38ec0aa042276"
 
 [[files]]
 file = "config/iteminteractions-client.toml"
@@ -269,6 +273,10 @@ file = "config/moreculling.toml"
 hash = "93430d2637f35d7566fa2f64fb02d5760f6d3f84ea948fdfe00bd0aa453469c6"
 
 [[files]]
+file = "config/naturally_trimmed.json5"
+hash = "3a44207663f04a53c02e21a91691c05100ac56f4ab0ca28c5e48c07bde404989"
+
+[[files]]
 file = "config/notenoughanimations.json"
 hash = "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4"
 
@@ -314,7 +322,7 @@ hash = "8e42c76481421e2b3f3c83481e3920319b78b69c6c987e02e4c52bc7ea4e1be4"
 
 [[files]]
 file = "config/rightclickharvest.json5"
-hash = "6a27f6be5894d6f6cf72e765449ec3d9eee2456dc5bcdb552dd58602be6449be"
+hash = "34965033fb8f5c4ce293b54e4ac541a7912d83f068f0ddcc2b02afbed3b0289a"
 
 [[files]]
 file = "config/scribble.client.json"
@@ -335,6 +343,10 @@ hash = "c6d02a294a6615c01075925e5d33a15dd513e4ab128bb96dd77d2cf13a4e336b"
 [[files]]
 file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "86ddb99ecba40c4328603f0821d70a5c0e0d9642b1ff191cf206c6a1018c687f"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -363,6 +375,14 @@ hash = "908ad4b9ef18997981b70e0f3c3638ca1df07bb2b53a014bf009840e07750543"
 [[files]]
 file = "config/towns_and_towers/structure_rarity_new.json5"
 hash = "f0fa168527171c8b92f8de9a9775ef51aa22035f9f549beb02becaf16c0f59d7"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
 
 [[files]]
 file = "config/veinminer/blocks.json"
@@ -401,24 +421,16 @@ file = "credits.txt"
 hash = "48223064bc86ff061e5a04529cdbfdbba954ef9b462dc7f2369960f46c9be595"
 
 [[files]]
+file = "debug-profile.json"
+hash = "9dd760acd523fd7d3b1627a514cfb341a6b02f61179c69f680a4ee6b0a3d3bc7"
+
+[[files]]
 file = "global_packs/required_resources/3d-crops.zip"
 hash = "d63df002bd227c00ee11b8b5f64b751b152b3e0f883a135c2496564703bf67c5"
 
 [[files]]
 file = "global_packs/required_resources/3d-ladders.zip"
 hash = "60b77ab0af9edee022e65cdba9da89f6e26fa11e944dee1a82f4f89c49b5aa90"
-
-[[files]]
-file = "global_packs/required_resources/Vanilla Perfected Panorama.zip"
-hash = "6bce3bcaa2d31c240be712d67799924eb39430d88fc8c3c18d2767e890092b82"
-
-[[files]]
-file = "global_packs/required_resources/Vanilla Tweaks (Classic Netherite).zip"
-hash = "aa649dbb06ae32e3447c6f1ab0d860aedb94c5b8fbba14ac10ca180ffcba7ffd"
-
-[[files]]
-file = "global_packs/required_resources/Vanilla Tweaks (VP Default).zip"
-hash = "4afe628bb2ade9b7061921c5f2a1d7db2f5d7bd061ab4cfe083b90dd181f8ddb"
 
 [[files]]
 file = "global_packs/required_resources/better-lanterns.zip"
@@ -429,20 +441,8 @@ file = "global_packs/required_resources/door-tweaks.zip"
 hash = "8b4b8ff19454ef7b95502c71c313cdb6f583fafb2f51bdb805f8c9b3db7fd1d7"
 
 [[files]]
-file = "global_packs/required_resources/enchant-icons.zip"
-hash = "78cbfc8aa6994e943cf5247906d1160caff00d7e41430225a517c4a5ba731e24"
-
-[[files]]
-file = "global_packs/required_resources/enchanted-books.zip"
-hash = "ee0ccc5c82b7e8b63eb09f0ed7dd688e50e107fa2036d9692b9704554727dff7"
-
-[[files]]
 file = "global_packs/required_resources/fancy-crops.zip"
 hash = "20714e3d349c1028200abcb0326da0fad6b43bc581956225414a8b319c064847"
-
-[[files]]
-file = "global_packs/required_resources/fresh-animations.zip"
-hash = "2e2f0152469fcaac19c46f2959e0232f9b2c12a255e0481d85f845ecba003692"
 
 [[files]]
 file = "global_packs/required_resources/new-glowing-ores.zip"
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "be94f4eee46fe7ef840dae32e1a749db33adf0a8bf9c34f0b5d922f7c4a8d00a"
+hash = "549f571b8a25fa25e39490c37eb412af36c75afc7ce21304cfed0cc8549bb2bd"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "fa90f123d92ac95177794e235e2bf1d97b94ee8c0308accadf5a737c9a162adc"
+hash = "fbeac43677fc418bb5e37cab9da1f4a59e46a57ba9c0b56e34698c04b845e867"
 metafile = true
 
 [[files]]
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "97b8b9a91acf7522de1f5dd3b6b877c6922ead48aa84120d08d6aec3afae64f7"
+hash = "0f5fafa7558f8cd3077e899489e083d8e1872e6a3d07393e5215c3009b72ca6c"
 metafile = true
 
 [[files]]
@@ -713,12 +713,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dc5490cc1a9231b0d32ec3e72f9d34279fc1d1ff6fb5a7d288b1f36faec0a6a0"
+hash = "7b9c5859f27094716924ae732771ef824ce77147f48570c64417422c747923b5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
 metafile = true
 
 [[files]]
@@ -744,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "8c91080e610d7c8c40ae6445d36af1cf591fe1ebf70718b3e6d4714232b23592"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "f3098f868a180e0a54e931d294642c026e873f7f0dcf4efea546e11785965a23"
 metafile = true
 
 [[files]]
@@ -828,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "dbbc00eb309b2104e4f99f1a76d4c090b0ba9c8c836d5726f138d914552ff36e"
+hash = "76ae8e8106fef457a0bc83ab7969471f6321be430d8d56176b3dff25b53dde34"
 metafile = true
 
 [[files]]
@@ -1033,7 +1038,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "2c5b72f2e72b328d1506b3dea227fd701a0d70cc6a88e30da57a62230a49bd88"
+hash = "b1f04454e266b05c7d316d344b46fbab66893acfceea219901402fe56dc8586d"
 metafile = true
 
 [[files]]
@@ -1113,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "ac7899166ec0bfe64ff71075d67be3e21c5beb6178342a89c896e2d01cb897c3"
+hash = "3d62c0f52ba0e40e6a0dcdc147668b599f00d6c196fa02a72f3d49fb8c91e6d3"
 metafile = true
 
 [[files]]
@@ -1173,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
+hash = "da2b918e1ae55d1073b87bfc3236f37d106f80e0e295e99d374642f35531ada8"
 metafile = true
 
 [[files]]
@@ -1183,7 +1188,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1f6f1037b069a0d2c5be8953895963e8eb27569affb488c6449005844ae219de"
+hash = "a82599d1cf9d40517fbd7d12c307de08e8585ebcc05e3ded22a983bb37289f31"
 
 [[files]]
 file = "resourcepacks/Enchantment Outlines.zip.rpo"
@@ -1208,6 +1213,18 @@ hash = "2c6c173b5087f154bdb81015f6aa0aee0509ffeacb1e912be0a1980b11b4b70d"
 [[files]]
 file = "resourcepacks/Recolourful Containers 3.1.3 (1.19.4+).zip.rpo"
 hash = "e0ce886198c49bc30f874ccd460a7b520d4a1425d67769981fcc006e7654007b"
+
+[[files]]
+file = "resourcepacks/Vanilla Perfected Panorama.zip"
+hash = "6bce3bcaa2d31c240be712d67799924eb39430d88fc8c3c18d2767e890092b82"
+
+[[files]]
+file = "resourcepacks/Vanilla Tweaks (Classic Netherite).zip"
+hash = "aa649dbb06ae32e3447c6f1ab0d860aedb94c5b8fbba14ac10ca180ffcba7ffd"
+
+[[files]]
+file = "resourcepacks/Vanilla Tweaks (VP Default).zip"
+hash = "4afe628bb2ade9b7061921c5f2a1d7db2f5d7bd061ab4cfe083b90dd181f8ddb"
 
 [[files]]
 file = "resourcepacks/als-armor-stands-revamped.pw.toml"
@@ -1270,6 +1287,16 @@ hash = "924482fe3fd09ac105c4511db61cc4eb79bf9f6eb6ef22d4a9d4cf168d8e9056"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "fac58ce23d9f1d28198e86cd3f6f782b3758643c2de9f4ed851404e71fc8352b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-books-re-covered.pw.toml"
+hash = "cc3b104e8302aa563bee2476f23dfc1881d24f7aba2afe176933f0a67ffd89f7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
 metafile = true
@@ -1291,7 +1318,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/glowing-glints.pw.toml"
-hash = "dd43e93ac46d2fa370598f6b528382d13675cc6054098592feb406b41ec28bd7"
+hash = "f2f79c8e1e270038d46817cd8b32df98f15b822ba2476da924f1321a65035d41"
 metafile = true
 
 [[files]]
@@ -1326,7 +1353,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
-hash = "6576e0f2a199e626872973b61fa925d6055c90442901e88e705815d1ef48888d"
+hash = "bc4dcbd6b77adb2180049d63ed4a8981553f06dbf3e32080022ffd87dd1fb09b"
 metafile = true
 
 [[files]]
@@ -1351,6 +1378,10 @@ hash = "ba6a68d734f41eaa8ba93ead89386a165e0a4439c0fabcba4a136a9c60ebc8c0"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
 hash = "85fafefd772eb77aaf31b29cb5e3bb39bb7d58c8e50f481bcf13f250e43aac2d"
+
+[[files]]
+file = "shaderpacks/I Like Vanilla v1.4.3c.zip.txt"
+hash = "5844b79132de215d49ca9e98324c8be0a733b42f63be9318fe51a6e8f9c1844c"
 
 [[files]]
 file = "shaderpacks/Solas-Shader-V3.0.zip"
