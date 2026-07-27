@@ -354,6 +354,11 @@ hash = "998f43db75a7593f0628afeef8365bcad6ab94316988598b0d914930ccf076a2"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b7c469df6ef4ede9e6e3d51cfb52aec810dff102663a1f3cc8113b2e8d63893b"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "6f6a3fef42333dbbddacd82f5b2a2c7b48e7ebf839a5ac69782b18e2075e0890"
 metafile = true
