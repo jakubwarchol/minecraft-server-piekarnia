@@ -1,0 +1,13 @@
+name = "Immersive Hotbar"
+filename = "immersive-hotbar-1.1.2-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hsPB5xMD/versions/iYkItip9/immersive-hotbar-1.1.2-26.2.jar"
+hash-format = "sha512"
+hash = "cd43981531810897bd7f2a8507d6092bc72d08bb518e521e9a9c100dadb19a122044057b2a36073eaaf30d2beb6553fff5e9dded2f6f467d2a9f2529e0bad29a"
+
+[update]
+[update.modrinth]
+mod-id = "hsPB5xMD"
+version = "iYkItip9"

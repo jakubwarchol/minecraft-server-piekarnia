@@ -1,0 +1,13 @@
+name = "C418 Songs Only"
+filename = "§3§lC418 Songs Only.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jJAtxomy/versions/jKZoVfXq/%C2%A73%C2%A7lC418%20Songs%20Only.zip"
+hash-format = "sha512"
+hash = "9c349287c3d087e9b30e1deaeed5e036474a086bd79bb5849f062531d2463ea0cd57e2081970e340678d1018c39602a8f890c589dbed23d466031ce2daf9c39e"
+
+[update]
+[update.modrinth]
+mod-id = "jJAtxomy"
+version = "jKZoVfXq"

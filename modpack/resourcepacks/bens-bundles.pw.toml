@@ -1,0 +1,13 @@
+name = "Ben's Bundles"
+filename = "Ben's Bundles 1.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P1pCfFcQ/versions/M5cttEAo/Ben%27s%20Bundles%201.4.zip"
+hash-format = "sha512"
+hash = "a78aa366eb7a19ae03cfbf4dae3250167fa9ba75ef146f7f3a710cd70901835418fc73e8fd769cdd05eaa31fc008566dc5e9c2667ee78d234e3162b52248b9e4"
+
+[update]
+[update.modrinth]
+mod-id = "P1pCfFcQ"
+version = "M5cttEAo"

@@ -1,0 +1,13 @@
+name = "World Play Time Reborn"
+filename = "worldplaytimereborn-1.2.5+26.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NDcygmHf/versions/lFPiLGmJ/worldplaytimereborn-1.2.5%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "3a78d38e387407cdd021b9908283af0c7a40286d42c2e9ab8ecd2d77acd4341a234f6b5a0bbc25feae8d0b079047ec27c88b3d0fe47536b52a35f97a600aae66"
+
+[update]
+[update.modrinth]
+mod-id = "NDcygmHf"
+version = "lFPiLGmJ"

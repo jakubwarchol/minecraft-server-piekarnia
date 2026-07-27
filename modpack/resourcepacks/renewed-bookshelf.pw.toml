@@ -1,0 +1,13 @@
+name = "Renewed Bookshelf"
+filename = "Renewed Bookshelf v1.0.1 - 26.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N3fBsvtt/versions/qEq3fvZk/Renewed%20Bookshelf%20v1.0.1%20-%2026.2.zip"
+hash-format = "sha512"
+hash = "17d60aa147a2e6d0ec3ae7063b0c25a08fb5a24dd9623953b8c8861fcacb8fe3662fa15f614baf0f56149ddbf3438bfb26b063c07fef5e33b3eec7edff0c20bc"
+
+[update]
+[update.modrinth]
+mod-id = "N3fBsvtt"
+version = "qEq3fvZk"

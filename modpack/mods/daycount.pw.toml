@@ -1,0 +1,13 @@
+name = "Day Count - a day counter HUD (Forge/NeoForge/Fabric)"
+filename = "DayCount-1.6.0-Fabric-mc26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kexckXV1/versions/af2OGbsY/DayCount-1.6.0-Fabric-mc26.1.jar"
+hash-format = "sha512"
+hash = "f6f63d6f330e96023e8c57a669e6c3d071892b04f3cf92403bfb016c9282cfecc01b9f035fc505b0f1c5cbe76ce2add85c8e98f0e917a60952dba44adeec8585"
+
+[update]
+[update.modrinth]
+mod-id = "kexckXV1"
+version = "af2OGbsY"

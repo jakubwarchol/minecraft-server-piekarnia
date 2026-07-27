@@ -1,0 +1,13 @@
+name = "Dani's Oxidizing Copper Tools"
+filename = "Dani's Oxidizing Copper Tools.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fkEvrT75/versions/r4ZIuXmn/Dani%27s%20Oxidizing%20Copper%20Tools.zip"
+hash-format = "sha512"
+hash = "6d7ab78f1eabad8dc9f2f0b5fe945cd7191dabce50f62432fb3eb76451dbacb4b2c407d1d644bfe1790440f395be8952fc4b518c1d19f31c6cf77e45919f13e4"
+
+[update]
+[update.modrinth]
+mod-id = "fkEvrT75"
+version = "r4ZIuXmn"

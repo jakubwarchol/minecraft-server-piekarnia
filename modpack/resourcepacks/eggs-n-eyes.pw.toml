@@ -1,0 +1,13 @@
+name = "Eggs N Eyes"
+filename = "Eggs N Eyes 1.0.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fn2kXmlX/versions/cIgxHxKr/Eggs%20N%20Eyes%201.0.6.zip"
+hash-format = "sha512"
+hash = "118bf109265f324b0e49b78ad113c56649d549c01d5c43a7aaaca6ca21e3ec143f15f8299f1e2cbf869ef9c97e394a8102d04ee7b3214088baf3062f08ae0ef3"
+
+[update]
+[update.modrinth]
+mod-id = "Fn2kXmlX"
+version = "cIgxHxKr"

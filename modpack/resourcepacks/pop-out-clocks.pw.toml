@@ -1,0 +1,13 @@
+name = "Pop-out Clocks"
+filename = "Pop-out Clock (1.21.5+).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gYMyxfkI/versions/Ik4N3fgb/Pop-out%20Clock%20%281.21.5%2B%29.zip"
+hash-format = "sha512"
+hash = "a499a74eea0652548c4cb71646c3c57d5bded1c674adf2a6947282cde5aa58f80338f84a19ccc7b56a318459841f31fd6ca4d5b72890c4c384174eac7e8bb164"
+
+[update]
+[update.modrinth]
+mod-id = "gYMyxfkI"
+version = "Ik4N3fgb"
