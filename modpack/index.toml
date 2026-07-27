@@ -229,22 +229,6 @@ file = "config/litematica.json"
 hash = "fc69969260bc2ff41aea89a1b3f41bf80c83516f9f501137de6e1982c016ea09"
 
 [[files]]
-file = "config/litematica/litematica_FOREVER WORLD.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_FOREVER WORLD_dim_minecraft_overworld.json"
-hash = "fb064c90f2ba47349e1d28f6a6ada38626adf808ebe548667b064696bd43a12b"
-
-[[files]]
-file = "config/litematica/litematica_New World.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_New World_dim_minecraft_overworld.json"
-hash = "fb064c90f2ba47349e1d28f6a6ada38626adf808ebe548667b064696bd43a12b"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
