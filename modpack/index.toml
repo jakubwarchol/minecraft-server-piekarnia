@@ -221,10 +221,6 @@ file = "config/waystones-common.toml"
 hash = "401475f116af890b67fbd70142b244d6f3f1bec2eef39bab68b309ec110ad4e7"
 
 [[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
-
-[[files]]
 file = "global_packs/required_resources/3d-crops.zip"
 hash = "d63df002bd227c00ee11b8b5f64b751b152b3e0f883a135c2496564703bf67c5"
 
@@ -469,6 +465,11 @@ hash = "4b848de82ce877c7bd6a080e2c19f1dfe123204e02b6ebce9b2c38e0c81977e0"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "6aa36140849ed9e4c8e783f6a027ab269b04c18c2174ed21cdf6baaa12e7b8f2"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "eb229316b20d29f9c43986ef250dbbb905ddde009fcfe2f991971b2f8c136ea6"
 metafile = true
@@ -654,6 +655,11 @@ hash = "c480109c552c6fe4751568f9d975a345c35fa24ab3aa742ba7c4163493476897"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "3e0099a4124fdbead5f0b39eb3aebc6bd117a10ecc6125387dcfdcef40aef152"
+metafile = true
+
+[[files]]
 file = "mods/veinminer-client.pw.toml"
 hash = "418e1fa61f2a856fea1a248d096d47d92d227e30cdb1371e20f43ba1b67588f8"
 metafile = true
@@ -666,16 +672,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "625a2062e2d1ac67077b2ee600e0ebef6450d6d38dab9b061469bef133647c84"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d547f22c378e1b2d3bf84ce4975c9d3b9f0626c8eafc9ea05b7167f18ebee3d2"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "817c6920319ead7093fce90e1e3fd6f9a4241fa31554f260158306614e344bab"
 metafile = true
 
 [[files]]
