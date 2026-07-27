@@ -1,13 +1,13 @@
 name = "Magnum Torch"
-filename = "MagnumTorch-v21.1.0-1.21.1-Fabric.jar"
+filename = "MagnumTorch-v26.1.0-mc26.1.x-Fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jorDmSKv/versions/jbMPqW6d/MagnumTorch-v21.1.0-1.21.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/jorDmSKv/versions/1pdmsPhL/MagnumTorch-v26.1.0-mc26.1.x-Fabric.jar"
 hash-format = "sha512"
-hash = "1c48c9f0ca7a3f853f8fd068358fddbe10d0a929d367527647751a88ec47fda7d3c2af98cdbf6597148c8234976496459185caf643cbf0c2e4e614f1ee6d1e88"
+hash = "01903bd72fd2b78e7930d1a51c13c1ecb78ee188b0ae92d379c621f30aa99b0d8cfcd3c8898cf56bf104b730b33f04d88479947fe79495e7eed314a77ff9bd16"
 
 [update]
 [update.modrinth]
 mod-id = "jorDmSKv"
-version = "jbMPqW6d"
+version = "1pdmsPhL"

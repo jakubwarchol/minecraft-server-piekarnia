@@ -1,13 +1,13 @@
 name = "Inventory Management"
-filename = "inventorymanagement-1.6.0+1.21.jar"
+filename = "inventorymanagement-fabric-2.0.1+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/F7wXag4i/versions/QKR8TF01/inventorymanagement-1.6.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/5RtcjDmI/inventorymanagement-fabric-2.0.1%2B26.1.jar"
 hash-format = "sha512"
-hash = "475ed7b20c0d5edc597234c60c0f5089bd9e9e88d817f30ad97b151e28783a751f7076e510ead43e5b846a7e0ff2c38b7719db5e5f439165dea2b125ccd0544e"
+hash = "ecf5e51595d61984b6e125becc731c3928c6140432d55320b5c9b6ea5c29554faa0f57407a343098acf88da3bc9f0b12ba9e3543a88248b2ae2bb37b67e08280"
 
 [update]
 [update.modrinth]
 mod-id = "F7wXag4i"
-version = "QKR8TF01"
+version = "5RtcjDmI"

@@ -1,13 +1,13 @@
 name = "Veinminer Hotkey"
-filename = "veinminer-client-2.4.2.jar"
+filename = "veinminer-client-fabric-2.10.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dxa0Bm8m/versions/ycz8UR6d/veinminer-client-2.4.2.jar"
+url = "https://cdn.modrinth.com/data/dxa0Bm8m/versions/sfgXyNVG/veinminer-client-fabric-2.10.3.jar"
 hash-format = "sha512"
-hash = "e15ad0b9cf2d1ec6df4e0af178025cbf366f33d3aded1c2cf78178736ba1521f92c717e5c73132eaae0849074ead0bb2807cd3ca11d0293387b07a158154e6fb"
+hash = "ceb36a23e2476aaf00503f4a6170af902709851d65a076aa8351635af44080d51327e2fccc04623c12cd782977c455d8491514ad406ae3dcbd14154247d022df"
 
 [update]
 [update.modrinth]
 mod-id = "dxa0Bm8m"
-version = "ycz8UR6d"
+version = "sfgXyNVG"

@@ -1,13 +1,13 @@
 name = "YUNG's Better Witch Huts"
-filename = "YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
+filename = "YungsBetterWitchHuts-26.1.2-Fabric-5.1.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/t5FRdP87/versions/bdpPtvTn/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar"
+url = "https://cdn.modrinth.com/data/t5FRdP87/versions/9Qa0oCG4/YungsBetterWitchHuts-26.1.2-Fabric-5.1.0.jar"
 hash-format = "sha512"
-hash = "ca6749bd01cd5b623d6f58561a57c2e2a8f769c31e3947fceac22e495f5da5b803d05777c6e3e122da40c4dd49444d58aaface0220b0a3106a5b5e27658b2d9f"
+hash = "e3f8593e01c7864d1edbfacc517a60b77fbd391c3758bda031df8e37815954ba0d6af59a7ddd74c4275e13874cfd4f3341ffd791615d38fe3d557f9a91598ecd"
 
 [update]
 [update.modrinth]
 mod-id = "t5FRdP87"
-version = "bdpPtvTn"
+version = "9Qa0oCG4"
