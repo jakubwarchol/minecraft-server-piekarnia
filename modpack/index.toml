@@ -378,7 +378,7 @@ hash = "1f74f3290cdadbddc0aef4e961a1fa8b97bdd2167a8b8c00b3d2e1e938d091bb"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "922caa2c61a742ea1465473bc5c7caba508a6556d9d4e7577a86dff0178dc367"
+hash = "b08614c7b5fa90dac9fcc4b7e6bc5111b4432f9e580c9e3dafcd8dd32968d406"
 
 [[files]]
 file = "config/worldplaytimereborn/config.json"
