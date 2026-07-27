@@ -294,11 +294,6 @@ hash = "99c470d7645ce0b117be78844b166ef0216d6f57b3fc3e854d839f75c6510590"
 metafile = true
 
 [[files]]
-file = "mods/ati-structures-vanilla-edition.pw.toml"
-hash = "e24081c1103de1eab5221913598bd24ebd294168a7c21e4eab583d73c4046d1b"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "ac362fd04bd34760783c127e89478b56dbe30b6e7792f084f515f6046e7b5d31"
 metafile = true
