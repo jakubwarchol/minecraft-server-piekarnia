@@ -153,10 +153,6 @@ file = "config/explosiveenhancement.json"
 hash = "839482f45a8c5563f356655dadc8cbba4386decfc68f02faf901626aa0af054c"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "4ad378519e43ab82c3ab3fe390f765e1486551397ade718bbb441039cc39dcb6"
-
-[[files]]
 file = "config/farmersdelight-common.json"
 hash = "bdd90884cfbde8fad7593b041685789364ac6e6636602550f836e3e03818c2b0"
 
@@ -327,10 +323,6 @@ hash = "c6d02a294a6615c01075925e5d33a15dd513e4ab128bb96dd77d2cf13a4e336b"
 [[files]]
 file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
-
-[[files]]
-file = "config/sodium-fingerprint.json"
-hash = "86ddb99ecba40c4328603f0821d70a5c0e0d9642b1ff191cf206c6a1018c687f"
 
 [[files]]
 file = "config/sodium-mixins.properties"
