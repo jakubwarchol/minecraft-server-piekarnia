@@ -57,6 +57,10 @@ file = "config/gravestones.json"
 hash = "b03f1f422cdc0bf95fb8870aaf1667ee477c30228f0088fd49fc8f19cb5d5dd3"
 
 [[files]]
+file = "config/iris.properties"
+hash = "2161d09f9c3b61fda2fb04f8f2f147454fba160c9518b5b93395a9ed1d772391"
+
+[[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -653,6 +657,10 @@ metafile = true
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "6576e0f2a199e626872973b61fa925d6055c90442901e88e705815d1ef48888d"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
+hash = "85fafefd772eb77aaf31b29cb5e3bb39bb7d58c8e50f481bcf13f250e43aac2d"
 
 [[files]]
 file = "shaderpacks/Solas-Shader-V3.0.zip"
