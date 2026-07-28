@@ -196,7 +196,7 @@ key_flashback.keybind.create_marker_2:key.keyboard.unknown
 key_flashback.keybind.create_marker_3:key.keyboard.unknown
 key_flashback.keybind.create_marker_4:key.keyboard.unknown
 key_key.light-overlay.toggle:key.keyboard.f9
-key_key.daycount.day_count:key.keyboard.b
+key_key.daycount.day_count:key.keyboard.unknown
 key_key.detailab.open_config:key.keyboard.unknown
 key_key.elytratrails.twirl_random:key.keyboard.unknown
 key_key.elytratrails.open_settings:key.keyboard.unknown
@@ -217,7 +217,7 @@ key_key.iteminteractions.toggle_item_held_by_cursor_tooltip:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.f12
 key_key.reachbehind.toggle_reaching_behind_blocks:key.keyboard.unknown
-key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom:key.keyboard.z
 key_zoomify.key.zoom.secondary:key.keyboard.f6
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
@@ -241,3 +241,6 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+key_key.journeymap.create_waypoint:key.keyboard.unknown
+key_key.toms_storage.open_terminal:key.keyboard.unknown
+key_key.veinminer_client.hold:key.mouse.4
