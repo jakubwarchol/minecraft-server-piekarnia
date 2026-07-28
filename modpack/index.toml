@@ -1138,6 +1138,11 @@ hash = "8f2b6f7b6626fd440001af7fd8ae39671fea791fa9d570919f9e216b0fb3aa3e"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "ff1940da0ab52a46300559ae87adda2a4cafc211bbf22def5217c4169ee9a56e"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "107f3af2d4f937885b43949473eafc14ea51da8543b1692ff5ebd45dad215060"
 metafile = true
