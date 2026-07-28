@@ -135,7 +135,7 @@ key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.spectatorHotbar:key.mouse.middle
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
+key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.x
 key_key.advancements:key.keyboard.l
 key_key.quickActions:key.keyboard.g
@@ -244,3 +244,4 @@ modelPart_hat:true
 key_key.journeymap.create_waypoint:key.keyboard.unknown
 key_key.toms_storage.open_terminal:key.keyboard.unknown
 key_key.veinminer_client.hold:key.mouse.4
+key_key.travelersbackpack.cycle_tool:key.keyboard.c

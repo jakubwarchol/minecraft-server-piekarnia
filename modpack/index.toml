@@ -1164,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "93a210abea6859d07bc628e4737cd8b04a33224737c0a92a31b12b1b38dc5aea"
+hash = "bd9c31520ab6d2470ff71f32bc6b665be47701e289aab1c3f429454ab7b37489"
 
 [[files]]
 file = "resourcepacks/Enchantment Outlines.zip.rpo"
