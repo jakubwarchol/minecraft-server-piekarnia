@@ -513,6 +513,11 @@ hash = "73326213899af53071fedc242ad04f0c8fc45cf7151d8fadcc35550970a72e51"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "d46ccf7f4f4d1b1fa4a7d743554f518356c9aa7d4b37ae4e5f4a25fc0a80f006"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "1b2500f3cc0ae2cfd119051ad945063ec72484575e3395fb81ab588af3b4d8e1"
 metafile = true
@@ -735,6 +740,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c600911d4b263b38aa38cbbbb144214f95a76dbd10adf94c78a00d65b35910a2"
 metafile = true
 
 [[files]]
@@ -1123,8 +1133,8 @@ hash = "3d62c0f52ba0e40e6a0dcdc147668b599f00d6c196fa02a72f3d49fb8c91e6d3"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "b1083983d7ac86c52c1bb1da749f132460c4ee9a8875e76c5244037fc1e0de73"
+file = "mods/tectonic.pw.toml"
+hash = "8f2b6f7b6626fd440001af7fd8ae39671fea791fa9d570919f9e216b0fb3aa3e"
 metafile = true
 
 [[files]]
