@@ -488,6 +488,11 @@ hash = "ac362fd04bd34760783c127e89478b56dbe30b6e7792f084f515f6046e7b5d31"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "600562057c172dc92115598278ff533661b2c649bf58639a0e4bfd5b77e88259"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "549f571b8a25fa25e39490c37eb412af36c75afc7ce21304cfed0cc8549bb2bd"
 metafile = true
@@ -743,6 +748,21 @@ hash = "068e7d91b58fc5cb621a1a145bc44e01f323086b7dca2b96b4d27b034c3138d2"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-mineshaft.pw.toml"
+hash = "596eff3f1979e8a7cc4d548cc8b76eb30c25be20e40698f0e67866ba61efff31"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "55ad438002ddc6e860991292c85536f84b0086799a8a5eaac32a88262f36bea0"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "ba018acc278733d90c4ff16ed5b9e3fc0d6b7fcbe4d75d3d5b565b8ccd2e000c"
+metafile = true
+
+[[files]]
 file = "mods/horse-expert.pw.toml"
 hash = "82d2045052db78da9364c0e925eea5ca769f0185b6e56a97313a9f319b78ffb0"
 metafile = true
@@ -953,11 +973,6 @@ hash = "2e2086f80a46d334bb35d0c16aedfc8077e8992b763f1e84296d996baa2aca78"
 metafile = true
 
 [[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "5c54f485a3d166cfa6a931c016f7e31150a34c128271b985ce3c3ceed62d1330"
-metafile = true
-
-[[files]]
 file = "mods/particle-effects.pw.toml"
 hash = "fe163c32ccd29d022202593f6623829e2c84ee306bcd0d08d70a2bf66e3a4036"
 metafile = true
@@ -1085,6 +1100,16 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "6bed570b22352002ecb402ab6aaddf790c7674cbe0bf995bee97bf253899800d"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
 metafile = true
 
 [[files]]
