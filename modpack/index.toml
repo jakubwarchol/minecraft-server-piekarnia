@@ -190,7 +190,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bdbf31cc473ad21fe026aa4a117da6300e66f8cb3470a37af5b38ec0aa042276"
+hash = "0da0807d45746f75e068409f2f943501d67ab91f063bd7ce3c77a4cbf3ae65b1"
 
 [[files]]
 file = "config/iteminteractions-client.toml"
@@ -222,7 +222,7 @@ hash = "7776629aff47046d069fa5cb47c7c7d16be7a121948f53aa998850d0ab9f5ce1"
 
 [[files]]
 file = "config/litematica.json"
-hash = "fc69969260bc2ff41aea89a1b3f41bf80c83516f9f501137de6e1982c016ea09"
+hash = "dbdbf7c60dab52835af50d816a106e6ad398a9a4413d65dddb24f80aa63cabf7"
 
 [[files]]
 file = "config/lithium.properties"
@@ -431,6 +431,14 @@ hash = "5342dd2be1b7a2a7856d695e6593955d8abfee0883ebc7d67fa95fc468cdf1f7"
 [[files]]
 file = "global_packs/required_resources/vocal-villagers.zip"
 hash = "c1be212badf20664ed69f098dc68dd6785259c2f1ad30937b00a9f926aefd693"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "32a10888319cf54ff6b0a437c0f4595d986843c40f9566b13c084bacdd84a2d2"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "32a10888319cf54ff6b0a437c0f4595d986843c40f9566b13c084bacdd84a2d2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1204,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bd9c31520ab6d2470ff71f32bc6b665be47701e289aab1c3f429454ab7b37489"
+hash = "fbf65b8299a452b73426392dcb6cd089bec6c7fee811bbc240944af79fcbcd00"
 
 [[files]]
 file = "resourcepacks/Enchantment Outlines.zip.rpo"

@@ -8,7 +8,7 @@ entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.0
+fov:0.75
 fovEffectScale:1.0
 darknessEffectScale:1.0
 glintSpeed:0.5
@@ -19,7 +19,7 @@ prioritizeChunkUpdates:1
 fullscreen:true
 exclusiveFullscreen:true
 gamma:0.5
-guiScale:0
+guiScale:6
 maxAnisotropyBit:1
 textureFiltering:1
 maxFps:260
@@ -242,6 +242,8 @@ modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
 key_key.journeymap.create_waypoint:key.keyboard.unknown
+key_key.journeymap.minimap_preset:key.keyboard.unknown
+key_key.journeymap.map_toggle_alt:key.keyboard.m
 key_key.toms_storage.open_terminal:key.keyboard.unknown
 key_key.veinminer_client.hold:key.mouse.4
 key_key.travelersbackpack.cycle_tool:key.keyboard.c
